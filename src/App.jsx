@@ -1,9 +1,13 @@
+import { Header } from './components/Header'
+
 import { Post } from './Post'
+
+import './styles.css'
 
 export function App() {
   return (
     <div>
-      <h1>Olá Guilherme!</h1>
+      <Header />
 
       <Post title="Artigo 1" />
       <Post title="Artigo 1" />
