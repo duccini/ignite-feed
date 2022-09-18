@@ -8,7 +8,7 @@
 
 .cover {
   width: 100%;
-  height: 72px;
+  height: 100px;
   object-fit: cover;
 }
 
@@ -17,7 +17,7 @@
   flex-direction: column;
   align-items: center;
 
-  margin-top: calc(0px - 1.5rem - 6px);
+  margin-top: calc(0px - 2.5rem);
 }
 
 .profile strong {
@@ -35,12 +35,12 @@
 .avatar {
   box-sizing: initial;
 
-  height: 3rem;
-  width: 3rem;
+  height: 6rem;
+  width: 6rem;
 
   border-radius: 8px;
-  border: 4px solid var(--gray-800);
-  outline: 2px solid var(--green-500);
+  border: 2px solid var(--green-300);
+
 }
 
 .sidebar footer {
@@ -60,7 +60,7 @@
 
   font-weight: bold;
 
-  height: 50px;
+  height: 45px;
 
   display: block;
 
