@@ -123,3 +123,7 @@
 .commentForm button[type=submit]:focus {
   box-shadow: none !important;
 }
+
+.commentList {
+  margin-top: 2rem;
+}
