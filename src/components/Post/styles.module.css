@@ -41,16 +41,6 @@
   line-height: 1.6;
 }
 
-.author img {
-  box-sizing: initial;
-
-  height: 3.5rem;
-  width: 3.5rem;
-
-  border-radius: 8px;
-  border: 2px solid var(--green-300);
-}
-
 .content {
   line-height: 1.6;
   color: var(--gray-300);

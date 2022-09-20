@@ -32,17 +32,6 @@
   line-height: 1.6;
 }
 
-.avatar {
-  box-sizing: initial;
-
-  height: 6rem;
-  width: 6rem;
-
-  border-radius: 8px;
-  border: 2px solid var(--green-300);
-
-}
-
 .sidebar footer {
   border-top: 2px solid var(--gray-600);
 
